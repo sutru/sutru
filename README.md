@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Trujillo</h1>
-<h3 align="center">I am a Backend developer from Flagstaff Arizona specializing in Java and AWS technologies. I fell in love with Software development and IT when I was young while trying to read docs that made no sense to me on port forwarding and Minecraft servers. I am ecstatic to bring my skills to a company and work to improve their technologies and environment. I am experienced with many AWS technologies such as Lambda, DynamoDB, EC2, S3, etc., also Java and java related frameworks including Dagger and Spring. I enjoy working in a team environment lifting those around me as they lift me, but I am also capable of working alone and still giving it everything I have! I am currently seeking work as a backend developer. Feel free to reach out to me here on linked in or through email at andrew.s.trujillo@gmail.com</h3>
+<h3 align="center">I am a Backend developer from Flagstaff Arizona specializing in Java and AWS technologies. I fell in love with Software development and IT when I was young while trying to read docs that made no sense to me on port forwarding and Minecraft servers. I am eager to bring my skills to a company and work to improve their technologies and environment.
+
+I am experienced with many AWS technologies such as Lambda, DynamoDB, EC2, S3, etc., also Java and Java related frameworks including Dagger and Spring. I enjoy working in a team environment lifting those around me as they lift me, but I am also capable of working alone and still giving it everything I have!
+
+I am currently seeking work as a backend developer. Feel free to reach out to me here on LinkedIn or through email at andrew.s.trujillo@gmail.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutru&label=Profile%20views&color=0e75b6&style=flat" alt="sutru" /> </p>
 
