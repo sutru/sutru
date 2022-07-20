@@ -7,7 +7,7 @@ I am currently seeking work as a backend developer. Feel free to reach out to me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutru&label=Profile%20views&color=0e75b6&style=flat" alt="sutru" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutru" alt="sutru" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutru&rank=A,C" alt="sutru" /></a> </p>
 
 - 📫 How to reach me **andrew.s.trujillo@gmail.com**
 
